@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">HTTP Server</string>
+    <string name="ServerIP">Server IP Address:</string>
+    <string name="AnyIP">Any IP </string>
+    <color name="blue">#001</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00CC00</color>
+    <color name="white">#00CCFF</color>
+    <color name="gray">#2A2A2A</color>
+</resources>
